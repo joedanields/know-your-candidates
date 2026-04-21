@@ -41,18 +41,16 @@ function App() {
         darkMode ? 'dark bg-slate-950 text-slate-100' : 'bg-stone-100 text-slate-900'
       }`}
     >
-      <Hero t={t} />
-      <div className="-mt-[274px] sm:-mt-[250px]">
-        <div className="mx-auto max-w-6xl">
-          <Navbar
-            t={t}
-            language={language}
-            setLanguage={setLanguage}
-            darkMode={darkMode}
-            setDarkMode={setDarkMode}
-          />
-        </div>
-      </div>
+      <header className="relative overflow-hidden bg-gradient-to-br from-indigo-950 via-indigo-800 to-violet-700 text-white shadow-2xl">
+        <Navbar
+          t={t}
+          language={language}
+          setLanguage={setLanguage}
+          darkMode={darkMode}
+          setDarkMode={setDarkMode}
+        />
+        <Hero t={t} />
+      </header>
 
       <main className="relative z-10">
         <StatsCarousel t={t} />
