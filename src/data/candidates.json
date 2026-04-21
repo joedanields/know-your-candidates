@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "R. Meena",
+    "party": "DMK",
+    "age": 48,
+    "education": "M.A. Political Science",
+    "criminalCases": 0,
+    "constituency": "Chennai",
+    "assets": "₹14.3 Cr",
+    "liabilities": "₹1.8 Cr"
+  },
+  {
+    "id": 2,
+    "name": "S. Aravind",
+    "party": "AIADMK",
+    "age": 54,
+    "education": "B.Com",
+    "criminalCases": 2,
+    "constituency": "Chennai",
+    "assets": "₹9.7 Cr",
+    "liabilities": "₹0.9 Cr"
+  },
+  {
+    "id": 3,
+    "name": "K. Nandhini",
+    "party": "BJP",
+    "age": 43,
+    "education": "MBA",
+    "criminalCases": 0,
+    "constituency": "Coimbatore",
+    "assets": "₹11.1 Cr",
+    "liabilities": "₹2.2 Cr"
+  },
+  {
+    "id": 4,
+    "name": "M. Prakash",
+    "party": "INC",
+    "age": 57,
+    "education": "LL.B",
+    "criminalCases": 1,
+    "constituency": "Coimbatore",
+    "assets": "₹6.4 Cr",
+    "liabilities": "₹1.2 Cr"
+  },
+  {
+    "id": 5,
+    "name": "J. Kavitha",
+    "party": "CPI(M)",
+    "age": 46,
+    "education": "M.Sc",
+    "criminalCases": 0,
+    "constituency": "Madurai",
+    "assets": "₹3.2 Cr",
+    "liabilities": "₹0.4 Cr"
+  },
+  {
+    "id": 6,
+    "name": "P. Dinesh",
+    "party": "PMK",
+    "age": 51,
+    "education": "B.E",
+    "criminalCases": 3,
+    "constituency": "Trichy",
+    "assets": "₹8.9 Cr",
+    "liabilities": "₹3.6 Cr"
+  },
+  {
+    "id": 7,
+    "name": "L. Vetrivel",
+    "party": "NTK",
+    "age": 39,
+    "education": "B.A",
+    "criminalCases": 0,
+    "constituency": "Salem",
+    "assets": "₹2.4 Cr",
+    "liabilities": "₹0.1 Cr"
+  },
+  {
+    "id": 8,
+    "name": "T. Jayanthi",
+    "party": "DMDK",
+    "age": 44,
+    "education": "M.Com",
+    "criminalCases": 1,
+    "constituency": "Vellore",
+    "assets": "₹4.8 Cr",
+    "liabilities": "₹0.8 Cr"
+  }
+]
